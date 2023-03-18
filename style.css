@@ -1,0 +1,80 @@
+body{
+    background-color: lightgreen;
+    text-align: center;
+    font-weight: bold;
+    background-image: url("https://indiaongo.in/wp-content/uploads/2022/09/casino-g81f5600bf.jpg");
+    background-size: cover;
+    color: YELLOW;
+}
+
+
+
+h1{
+    color: yellow;
+}
+.main{
+    margin-top: 80px;
+}
+
+#sum{
+    color: yellow;
+}
+#player{
+  color: white;
+}
+
+
+
+
+#start {
+    background: YELLOW;
+    background-image: -webkit-linear-gradient(top, YELLOW, GREEN);
+    background-image: -moz-linear-gradient(top, YELLOW, GREEN);
+    background-image: -ms-linear-gradient(top, YELLOW, GREEN);
+    background-image: -o-linear-gradient(top, YELLOW, GREEN);
+    background-image: linear-gradient(to bottom, YELLOW, GREEN);
+    -webkit-border-radius: 15;
+    -moz-border-radius: 15;
+    border-radius: 15px;
+    font-family: Arial;
+    color: WHITE;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  #start:hover {
+    background: GREEN;
+    background-image: -webkit-linear-gradient(top, GREEN, YELLOW);
+    background-image: -moz-linear-gradient(top, GREEN, YELLOW);
+    background-image: -ms-linear-gradient(top, GREEN, YELLOW);
+    background-image: -o-linear-gradient(top, GREEN, YELLOW);
+    background-image: linear-gradient(to bottom, GREEN, YELLOW);
+    text-decoration: none;
+  }
+  #newcards {
+    background: yellow;
+    background-image: -webkit-linear-gradient(top, yellow, green);
+    background-image: -moz-linear-gradient(top, yellow, green);
+    background-image: -ms-linear-gradient(top, yellow, green);
+    background-image: -o-linear-gradient(top, yellow, green);
+    background-image: linear-gradient(to bottom, yellow, green);
+    -webkit-border-radius: 15;
+    -moz-border-radius: 15;
+    border-radius: 15px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  #newcards:hover {
+    background: green;
+    background-image: -webkit-linear-gradient(top, green, yellow);
+    background-image: -moz-linear-gradient(top, green, yellow);
+    background-image: -ms-linear-gradient(top, green, yellow);
+    background-image: -o-linear-gradient(top, green, yellow);
+    background-image: linear-gradient(to bottom, green, yellow);
+    text-decoration: none;
+  }
